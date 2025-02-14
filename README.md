@@ -1,4 +1,4 @@
-# sistema-bancario-v1
+# Sistema Bancário Simples em Python
 Sistema de gerenciamento financeiro simples, implementado em Python, que permite realizar depósitos, saques e verificar o extrato da conta. O sistema inclui limitações como o limite de saque diário e um número máximo de saques permitidos.
 
 ## Funcionalidades
